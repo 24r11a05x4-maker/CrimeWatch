@@ -1,0 +1,6 @@
+{
+  "name": "Crime Watch",
+  "description": "AI-powered community safety and crime reporting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
